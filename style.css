@@ -464,6 +464,13 @@ ul{
 	.right-nav, .all-microsoft{
 		display: none;
 	}
+	.template img{
+		width: 90%;
+		
+	}
+	.template div{
+		margin: auto;
+	}
 
 
 
